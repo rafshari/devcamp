@@ -1,4 +1,4 @@
-git import React from "react";
+import React from "react";
 import { Switch, BrowserRouter, Route } from "react-router-dom";
 import { Provider } from "react-redux";
 import store from "./redux/store";
